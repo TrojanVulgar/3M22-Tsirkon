@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuidanceSystem", "GuidanceSystem\GuidanceSystem.csproj", "{7CED91DC-7F1A-4A7D-B15A-6A3070B9C505}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{AA42451C-3A74-4056-AECF-ADB8A76E41BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CED91DC-7F1A-4A7D-B15A-6A3070B9C505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CED91DC-7F1A-4A7D-B15A-6A3070B9C505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CED91DC-7F1A-4A7D-B15A-6A3070B9C505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CED91DC-7F1A-4A7D-B15A-6A3070B9C505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA42451C-3A74-4056-AECF-ADB8A76E41BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA42451C-3A74-4056-AECF-ADB8A76E41BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA42451C-3A74-4056-AECF-ADB8A76E41BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA42451C-3A74-4056-AECF-ADB8A76E41BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

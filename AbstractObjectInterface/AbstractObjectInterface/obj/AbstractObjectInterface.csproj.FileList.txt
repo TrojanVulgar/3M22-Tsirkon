@@ -1,0 +1,14 @@
+bin\Debug\AbstractObjectInterface.exe
+bin\Debug\AbstractObjectInterface.pdb
+bin\Debug\GuidanceSystem.dll
+bin\Debug\GuidanceSystem.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AbstractObjectInterface.exe
+obj\Debug\AbstractObjectInterface.pdb
+bin\Release\AbstractObjectInterface.exe
+bin\Release\AbstractObjectInterface.pdb
+bin\Release\GuidanceSystem.dll
+bin\Release\GuidanceSystem.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\AbstractObjectInterface.exe
+obj\Release\AbstractObjectInterface.pdb
